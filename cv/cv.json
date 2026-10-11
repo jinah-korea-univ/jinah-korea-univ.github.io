@@ -1,0 +1,197 @@
+{
+  "name": "Jinah Kim",
+  "title": "Ph.D. Candidate, Department of Electrical Engineering, Korea University",
+  "lab": "Deep Image Processing Lab",
+  "contact": [
+    [
+      {
+        "text": "jina1649@korea.ac.kr",
+        "url": "mailto:jina1649@korea.ac.kr"
+      },
+      {
+        "text": "+82-10-8811-1649"
+      },
+      {
+        "text": "jinah-korea-univ.github.io",
+        "url": "https://jinah-korea-univ.github.io/"
+      }
+    ]
+  ],
+  "interests": "Image Restoration (Low-Light Image Enhancement, Image Deblurring), Video Understanding (Temporal Action Localization, Pedestrian Attribute Recognition)",
+  "education": [
+    {
+      "school": "Korea University",
+      "location": "Seoul, Republic of Korea",
+      "date": "Aug 2024 – Present",
+      "degree": "Ph.D. Candidate, Department of Electrical Engineering",
+      "detail": "Advisor: Prof. Seung-Won Jung, Deep Image Processing Lab"
+    },
+    {
+      "school": "Gachon University",
+      "location": "Seongnam, Republic of Korea",
+      "date": "Mar 2018 – Aug 2023",
+      "degree": "B.S. & M.S., Department of Software",
+      "detail": "Advisor: Prof. Jungchan Cho, Visual AI Lab"
+    }
+  ],
+  "experience_title": "Work Experience",
+  "experience": [
+    {
+      "role": "Research Intern, Video Team, NAVER Cloud",
+      "date": "Oct 2023 – Jun 2024",
+      "org": "Research topic: video shot boundary detection"
+    },
+    {
+      "role": "Research Intern, Visual Intelligence Lab, ETRI",
+      "date": "Jan 2022 – Feb 2022",
+      "org": "Research topic: pedestrian state understanding in real-world CCTV domains"
+    },
+    {
+      "role": "Programming Intern, Cloudike",
+      "date": "Jul 2020 – Aug 2020",
+      "org": "Android TV application programming"
+    }
+  ],
+  "publications": {
+    "conference": [],
+    "journal": [
+      {
+        "title": "Intrinsic Decomposition-Based Curriculum Learning for Low-Light Image Enhancement",
+        "authors": [
+          "Jinah Kim",
+          "Geon-Ho Park",
+          "Juhyun Bae",
+          "Seung-Won Jung"
+        ],
+        "venue": "IEEE Signal Processing Letters, vol. 32, pp. 4019–4023, 2025",
+        "links": [
+          {
+            "text": "DOI: 10.1109/LSP.2025.3621115",
+            "url": "https://doi.org/10.1109/LSP.2025.3621115"
+          }
+        ]
+      },
+      {
+        "title": "Background-Aware Robust Context Learning for Weakly-Supervised Temporal Action Localization",
+        "authors": [
+          "Jinah Kim",
+          "Jungchan Cho"
+        ],
+        "venue": "IEEE Access, vol. 10, pp. 65315–65325, 2022",
+        "links": [
+          {
+            "text": "DOI: 10.1109/ACCESS.2022.3183789",
+            "url": "https://doi.org/10.1109/ACCESS.2022.3183789"
+          }
+        ]
+      },
+      {
+        "title": "DnSAD: Defocus and Spatially Adaptive Deblurring for Mura Compensation in Display Panels",
+        "authors": [
+          "Geon-Ho Park",
+          "Juhyun Bae",
+          "Jinah Kim",
+          "Changeui Hong",
+          "Seung-Won Jung"
+        ],
+        "venue": "Journal of the Society for Information Display, vol. 34, no. 3, pp. 99–108, 2026",
+        "links": [
+          {
+            "text": "DOI: 10.1002/jsid.70027",
+            "url": "https://doi.org/10.1002/jsid.70027"
+          }
+        ]
+      },
+      {
+        "title": "Underexposed Image Enhancement for Mura Compensation in Display Panels",
+        "authors": [
+          "Yurim Jang",
+          "Geon-Ho Park",
+          "Jinah Kim",
+          "Changeui Hong",
+          "Seung-Won Jung"
+        ],
+        "venue": "Journal of the Society for Information Display, vol. 33, no. 9, pp. 955–963, 2025",
+        "links": [
+          {
+            "text": "DOI: 10.1002/jsid.2097",
+            "url": "https://doi.org/10.1002/jsid.2097"
+          }
+        ]
+      },
+      {
+        "title": "Improving Visual Pedestrian Attributes Discernment With Textual Reconstruction",
+        "authors": [
+          "Yejun Lee",
+          "Jinah Kim",
+          "Jungchan Cho",
+          "Jhonghyun An"
+        ],
+        "venue": "IEEE Access, vol. 12, pp. 164178–164189, 2024",
+        "links": [
+          {
+            "text": "DOI: 10.1109/ACCESS.2024.3491830",
+            "url": "https://doi.org/10.1109/ACCESS.2024.3491830"
+          }
+        ]
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Datasets and Research Trends for Local Motion Deblurring",
+        "authors": [
+          "Jinah Kim",
+          "Seung-Won Jung"
+        ],
+        "venue": "Workshop on Image Processing and Image Understanding (IPIU), 2026"
+      },
+      {
+        "title": "A Study on Limitations of Temporal Video Localization Based on Point-Level Annotation and an Improvement Method Through Point Distribution Modeling",
+        "authors": [
+          "Jinah Kim",
+          "Jungchan Cho"
+        ],
+        "venue": "The Journal of Korean Institute of Next Generation Computing, 2023"
+      },
+      {
+        "title": "Improvements on Real-World Domain and Person Understanding via Optimal Combination of Training Dataset and Model",
+        "authors": [
+          "Jinah Kim",
+          "Song Gil Jae",
+          "Kangmin Bae",
+          "Kimin Yun",
+          "Yuseok Bae"
+        ],
+        "venue": "Korean Institute of Information Scientists and Engineers (KIISE), 2022"
+      }
+    ]
+  },
+  "honors": [],
+  "skills": [],
+  "accent": "8B0029",
+  "output": "CV_Jinah_Kim.docx",
+  "updated": "October 2026",
+  "projects": [
+    {
+      "role": "Development of Deblurring Framework for Display Panel Repair Compensation",
+      "date": "Feb 2025 – Present",
+      "org": "Funded by LG Display"
+    },
+    {
+      "role": "Development of Video Understanding Framework Based on Multi-Camera",
+      "date": "Sep 2024 – Sep 2025",
+      "org": "Funded by SK Telecom"
+    },
+    {
+      "role": "Development of Low-Light Enhancement Framework for Display Panel Mura Compensation",
+      "date": "Sep 2024 – Jan 2025",
+      "org": "Funded by LG Display"
+    },
+    {
+      "role": "Development of High-Performance Visual Discovery Platform for Real-Time Large-Scale Video Data Understanding and Prediction",
+      "date": "Apr 2023 – Aug 2023",
+      "org": "Funded by ETRI (Electronics and Telecommunications Research Institute)"
+    }
+  ],
+  "journal_title": "International Journals"
+}
